@@ -1,12 +1,22 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CourseEFCore.Data.Configurations;
+using CourseEFCore.Domain;
+using Microsoft.EntityFrameworkCore;
 
 namespace CourseEFCore.Data
 {
     public class ApplicationContext : DbContext
     {
+        public DbSet<Pedido> Pedidos { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CourseEFCore;Trusted_Connection=True;MultipleActiveResultSets=true");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // chamando todas as config
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationContext).Assembly);
         }
     }
 }
