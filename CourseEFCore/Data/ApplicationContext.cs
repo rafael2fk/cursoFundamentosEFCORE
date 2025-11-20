@@ -22,9 +22,8 @@ namespace CourseEFCore.Data
                 .UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=CourseEFCore;Trusted_Connection=True;MultipleActiveResultSets=true",
                     p => p.EnableRetryOnFailure(
                         maxRetryCount: 2,
-                        maxRetryDelay: 
-                        TimeSpan.FromSeconds(5),
-                        errorNumbersToAdd: null));
+                        maxRetryDelay: TimeSpan.FromSeconds(5),
+                        errorNumbersToAdd: null).MigrationsHistoryTable("curso_EF_core"));
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
