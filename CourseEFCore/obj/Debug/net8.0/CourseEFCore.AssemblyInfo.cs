@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a9b4b4d1717a407f41d890d15eed02fa16f5eaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e5e97eb7f51c9122302b2cdb72ee2492a7d116")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
