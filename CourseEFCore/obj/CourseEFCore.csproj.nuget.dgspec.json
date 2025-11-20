@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - in progress\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj": {}
+    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - ready\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - in progress\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj": {
+    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - ready\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - in progress\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj",
+        "projectUniqueName": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - ready\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj",
         "projectName": "CourseEFCore",
-        "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - in progress\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj",
+        "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - ready\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\CourseEFCore.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - in progress\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\obj\\",
+        "outputPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\09 - fundamentosEntityFrameworkCore - ready\\2 - CourseEFCore\\CourseEFCore\\CourseEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
