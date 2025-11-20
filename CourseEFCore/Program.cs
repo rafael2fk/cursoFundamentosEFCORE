@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+// using var db = Data.ApplicationContext();
+
+// db.Database.Migrate();
+
+// var existe = db.Database.GetPendingMigrations().Any().
+// if (existe)
+// {}
